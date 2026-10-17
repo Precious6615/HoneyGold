@@ -1,6 +1,6 @@
-# Honey Gold Roofing - Website
+# Honey The Gold Roofing - Website
 
-Static website for Honey Gold Roofing (Honey The Gold Roofing Concept),
+Static website for Honey The Gold Roofing Concept,
 Roofing & General Contractors, Ijanikin, Lagos.
 
 Plain HTML, CSS and JavaScript. No build step.
@@ -21,7 +21,7 @@ Static text such as the hero, About, Why Choose Us and Process is in `index.html
 ## Photos
 
 All gallery photos in `assets/img/projects/` were cropped from the client's own
-promotional flyer, so they show real Honey Gold work. They are low resolution.
+promotional flyer, so they show real Honey The Gold work. They are low resolution.
 Replace them with original high resolution photos from the client when available.
 Categories with no photos (Roofing Repairs, Roof Replacement) show a
 "coming soon" note instead of stock images.

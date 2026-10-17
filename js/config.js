@@ -1,12 +1,12 @@
 /*
- * HONEY GOLD ROOFING - SITE CONFIGURATION
+ * HONEY THE GOLD ROOFING - SITE CONFIGURATION
  * ---------------------------------------
  * Edit this one file to update contact details, social links,
  * services, projects and FAQs. No other code changes are needed.
  */
 window.SITE_CONFIG = {
   brand: {
-    name: "Honey Gold Roofing",
+    name: "Honey The Gold Roofing",
     legalName: "Honey The Gold Roofing Concept",
     tagline: "Roofing, Installation, Repairs & Property Improvement",
   },
@@ -15,7 +15,7 @@ window.SITE_CONFIG = {
     // International format, digits only, no "+" (used for wa.me links)
     whatsappNumber: "2348038116293",
     whatsappMessage:
-      "Hello Honey Gold Roofing, I would like to enquire about your roofing and general contracting services.",
+      "Hello Honey The Gold Roofing, I would like to enquire about your roofing and general contracting services.",
     phones: [
       { display: "0803 811 6293", tel: "+2348038116293" },
       { display: "0902 428 3209", tel: "+2349024283209" },

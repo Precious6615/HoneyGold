@@ -1,4 +1,4 @@
-# Honey Gold Roofing - static site, no build step.
+# Honey The Gold Roofing - static site, no build step.
 [build]
   publish = "."
 
