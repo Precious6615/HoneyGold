@@ -35,8 +35,7 @@ window.SITE_CONFIG = {
    */
   social: [
     { network: "instagram", label: "Instagram", reference: "@kengold67", url: "https://www.instagram.com/kengold67/" },
-    // Client-supplied share link; it redirects to the account on TikTok
-    { network: "tiktok", label: "TikTok", reference: "Honey The Gold Roofing concept", url: "https://vm.tiktok.com/ZS9UP64ewkpPN-paNaj/" },
+    { network: "tiktok", label: "TikTok", reference: "@honeythegoldroofing", url: "https://www.tiktok.com/@honeythegoldroofing" },
     { network: "facebook", label: "Facebook", reference: "Honey Gold", url: "" },
   ],
 
