@@ -30,13 +30,12 @@ window.SITE_CONFIG = {
    * SOCIAL MEDIA
    * Leave url as "" until the client confirms the exact public profile link.
    * Empty links show as inactive icons and never send visitors anywhere.
-   * Instagram and TikTok links were supplied by the client. Facebook
-   * ("Honey Gold") is still unconfirmed.
+   * All three links below were supplied by the client.
    */
   social: [
     { network: "instagram", label: "Instagram", reference: "@kengold67", url: "https://www.instagram.com/kengold67/" },
     { network: "tiktok", label: "TikTok", reference: "@honeythegoldroofing", url: "https://www.tiktok.com/@honeythegoldroofing" },
-    { network: "facebook", label: "Facebook", reference: "Honey Gold", url: "" },
+    { network: "facebook", label: "Facebook", reference: "Honey Gold", url: "https://www.facebook.com/honeygold" },
   ],
 
   /*

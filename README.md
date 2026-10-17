@@ -46,7 +46,6 @@ on submit; it never pretends to succeed.
 
 ## Still needed from the client
 
-- Confirmed Instagram, TikTok and Facebook profile URLs
 - Confirmation they offer Roof Repairs, Roof Replacement, Waterproofing,
   Roof Inspections and Property Improvements
 - Days of the week they are open (hours are 9:00am - 6:00pm)
