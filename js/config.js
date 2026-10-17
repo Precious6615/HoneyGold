@@ -30,12 +30,14 @@ window.SITE_CONFIG = {
    * SOCIAL MEDIA
    * Leave url as "" until the client confirms the exact public profile link.
    * Empty links show as inactive icons and never send visitors anywhere.
-   * Client references: Instagram "ken@gold", TikTok "Honey The Gold Roofing
-   * concept", Facebook "Honey Gold". These could not be verified online.
+   * Instagram and TikTok links were supplied by the client. Facebook
+   * ("Honey Gold") is still unconfirmed.
    */
   social: [
-    { network: "instagram", label: "Instagram", reference: "ken@gold", url: "" },
-    { network: "tiktok", label: "TikTok", reference: "Honey The Gold Roofing concept", url: "" },
+    // Client-supplied post link; swap for the profile URL (instagram.com/<username>/) once confirmed
+    { network: "instagram", label: "Instagram", reference: "ken@gold", url: "https://www.instagram.com/p/Da2u6_QDSuQ/" },
+    // Client-supplied share link; it redirects to the account on TikTok
+    { network: "tiktok", label: "TikTok", reference: "Honey The Gold Roofing concept", url: "https://vm.tiktok.com/ZS9UP64ewkpPN-paNaj/" },
     { network: "facebook", label: "Facebook", reference: "Honey Gold", url: "" },
   ],
 
