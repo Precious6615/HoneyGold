@@ -1,6 +1,4 @@
 # Honey Gold Roofing - static site, no build step.
-# In Netlify, set "Base directory" to honey-gold-roofing while this site
-# lives inside this repository.
 [build]
   publish = "."
 

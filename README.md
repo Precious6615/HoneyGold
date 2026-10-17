@@ -38,7 +38,7 @@ on submit; it never pretends to succeed.
 
 1. In Netlify: Add new site > Import from Git > pick this repository.
 2. Branch: the branch you want live.
-3. Base directory: `honey-gold-roofing`
+3. Base directory: leave empty.
 4. Build command: leave empty. Publish directory: `.` (set in `netlify.toml`).
 5. Deploy. Netlify Forms detects the `quote` form automatically.
 6. In Site settings > Forms > Form notifications, add an email notification
