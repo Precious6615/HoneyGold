@@ -48,6 +48,5 @@ on submit; it never pretends to succeed.
 
 - Confirmation they offer Roof Repairs, Roof Replacement, Waterproofing,
   Roof Inspections and Property Improvements
-- Days of the week they are open (hours are 9:00am - 6:00pm)
 - High resolution project photos, ideally including repair and replacement jobs
 - A logo file, if they want their existing logo instead of the wordmark

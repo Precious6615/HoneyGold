@@ -121,6 +121,9 @@
     }).join("");
   }
 
+  /* ---------- Opening hours ---------- */
+  $$("[data-hours]").forEach(function (el) { el.textContent = cfg.contact.hours; });
+
   /* ---------- Year ---------- */
   $$("[data-year]").forEach(function (el) { el.textContent = new Date().getFullYear(); });
 

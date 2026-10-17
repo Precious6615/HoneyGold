@@ -23,7 +23,7 @@ window.SITE_CONFIG = {
     email: "kennygold79@gmail.com",
     address: "Federal Second Gate, Ijanikin, Badagry Expressway, Lagos State, Nigeria",
     mapsQuery: "Federal Second Gate Ijanikin Badagry Expressway Lagos",
-    hours: "9:00am - 6:00pm",
+    hours: "Monday - Saturday, 9:00am - 6:00pm",
   },
 
   /*
