@@ -34,8 +34,7 @@ window.SITE_CONFIG = {
    * ("Honey Gold") is still unconfirmed.
    */
   social: [
-    // Client-supplied post link; swap for the profile URL (instagram.com/<username>/) once confirmed
-    { network: "instagram", label: "Instagram", reference: "ken@gold", url: "https://www.instagram.com/p/Da2u6_QDSuQ/" },
+    { network: "instagram", label: "Instagram", reference: "@kengold67", url: "https://www.instagram.com/kengold67/" },
     // Client-supplied share link; it redirects to the account on TikTok
     { network: "tiktok", label: "TikTok", reference: "Honey The Gold Roofing concept", url: "https://vm.tiktok.com/ZS9UP64ewkpPN-paNaj/" },
     { network: "facebook", label: "Facebook", reference: "Honey Gold", url: "" },
