@@ -41,7 +41,7 @@ window.SITE_CONFIG = {
   /*
    * SERVICES
    * Set show: false to hide a service the client does not offer.
-   * confirmed: true means it appears on the client's own flyer.
+   * confirmed: true means the client has confirmed they offer it.
    */
   services: [
     {
@@ -57,7 +57,7 @@ window.SITE_CONFIG = {
       icon: "repair",
       title: "Roof Repairs",
       text: "Fixing leaks, loose sheets, damaged tiles and worn flashing before small problems grow.",
-      confirmed: false,
+      confirmed: true,
       show: true,
     },
     {
@@ -65,7 +65,7 @@ window.SITE_CONFIG = {
       icon: "replace",
       title: "Roof Replacement",
       text: "Removing an old or failing roof and replacing it with a durable modern roofing system.",
-      confirmed: false,
+      confirmed: true,
       show: true,
     },
     {
@@ -88,8 +88,8 @@ window.SITE_CONFIG = {
       id: "waterproofing",
       icon: "water",
       title: "Waterproofing",
-      text: "Protecting roofs, gutters and joints against water damage. Please confirm scope with us.",
-      confirmed: false,
+      text: "Protecting roofs, gutters and joints against leaks and water damage.",
+      confirmed: true,
       show: true,
     },
     {
@@ -97,7 +97,7 @@ window.SITE_CONFIG = {
       icon: "inspect",
       title: "Roof Inspections",
       text: "A clear look at your roof's condition so you know what needs attention and why.",
-      confirmed: false,
+      confirmed: true,
       show: true,
     },
     {
@@ -113,7 +113,7 @@ window.SITE_CONFIG = {
       icon: "home",
       title: "Property Improvements",
       text: "Upgrades that add value and comfort, from roof upgrades to exterior improvements.",
-      confirmed: false,
+      confirmed: true,
       show: true,
     },
   ],

@@ -46,7 +46,5 @@ on submit; it never pretends to succeed.
 
 ## Still needed from the client
 
-- Confirmation they offer Roof Repairs, Roof Replacement, Waterproofing,
-  Roof Inspections and Property Improvements
 - High resolution project photos, ideally including repair and replacement jobs
 - A logo file, if they want their existing logo instead of the wordmark
